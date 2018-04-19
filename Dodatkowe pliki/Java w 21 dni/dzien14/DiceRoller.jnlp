@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp codebase="http://workbench.cadenhead.org/java" href="DiceRoller.jnlp">
+  <information>
+    <title>Aplikacja rzucania kostką</title>
+    <vendor>Rogers Cadenhead</vendor>
+    <homepage href="http://www.java21days.com"/>
+    <offline-allowed />
+  </information>
+  <resources>
+    <j2se version="1.8" />
+    <jar href="DiceRoller.jar" />
+  </resources>
+  <security>
+    <all-permissions />
+  </security>
+  <application-desc main-class="DiceRoller"/>
+</jnlp>

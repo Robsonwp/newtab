@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<customers>
+    <customer>
+        <id>1</id>
+        <name>Jumbo Eagle Corp</name>
+        <city>Fort Lauderdale</city>
+        <state>FL</state>
+    </customer>
+    <customer>
+        <id>2</id>
+        <name>New Enterprises</name>
+        <city>Miami</city>
+        <state>FL</state>
+    </customer>
+    <customer>
+        <id>3</id>
+        <name>Small Bill Company</name>
+        <city>Alanta</city>
+        <state>GA</state>
+    </customer>
+    <customer>
+        <id>25</id>
+        <name>Wren Computers</name>
+        <city>Houston</city>
+        <state>TX</state>
+    </customer>
+    <customer>
+        <id>36</id>
+        <name>Bob Hosting Corp.</name>
+        <city>San Mateo</city>
+        <state>CA</state>
+    </customer>
+    <customer>
+        <id>106</id>
+        <name>Early CentralComp</name>
+        <city>San Jose</city>
+        <state>CA</state>
+    </customer>
+    <customer>
+        <id>149</id>
+        <name>John Valley Computers</name>
+        <city>Santa Clara</city>
+        <state>CA</state>
+    </customer>
+    <customer>
+        <id>409</id>
+        <name>Old Media Productions</name>
+        <city>New York</city>
+        <state>NY</state>
+    </customer>
+    <customer>
+        <id>410</id>
+        <name>Yankee Computer Repair Ltd</name>
+        <city>New York</city>
+        <state>NY</state>
+    </customer>
+    <customer>
+        <id>722</id>
+        <name>Big Car Parts</name>
+        <city>Detroit</city>
+        <state>MI</state>
+    </customer>
+    <customer>
+        <id>753</id>
+        <name>Zed Motor Co</name>
+        <city>Dearborn</city>
+        <state>MI</state>
+    </customer>
+    <customer>
+        <id>777</id>
+        <name>West Valley Inc.</name>
+        <city>Dearborn</city>
+        <state>MI</state>
+    </customer>
+    <customer>
+        <id>863</id>
+        <name>Big Network Systems</name>
+        <city>Redwood City</city>
+        <state>CA</state>
+    </customer>
+</customers>

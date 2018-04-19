@@ -1,0 +1,7 @@
+<!-- Rozwiązanie dla rozdział 21., ćwiczenie 1. -->
+<resources>
+    <string name="app_name">Palindrom2</string>
+
+    <string name="hello_world">Zakopane na pokaz</string>
+    <string name="action_settings">Ustawienia</string>
+</resources>
