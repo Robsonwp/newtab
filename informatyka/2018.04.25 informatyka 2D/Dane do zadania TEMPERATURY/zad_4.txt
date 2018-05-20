@@ -1,0 +1,4 @@
+a) najni¿sza œrednia temp. to 4,72 stopnia w 1829 roku
+b) najwy¿sza œrednia temp. to 9,82 stopni w 1989 roku
+c) arkusz temp_c
+d) najwiêkszy ci¹g lat to 5 w latach 1983-1987
