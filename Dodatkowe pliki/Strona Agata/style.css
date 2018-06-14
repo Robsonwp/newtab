@@ -1,0 +1,67 @@
+#container
+{
+    width: 63em;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+#logo
+{
+    background-color: #336699;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-family: 'Archivo Narrow', sans-serif;
+    font-size: 30px;
+
+}
+#nav
+{
+    float: left;
+    background-color: #99CCFF  ;
+    width: 8em;
+    height: auto;
+    min-height: 620px;
+    padding: 10px;
+    font-family: 'Archivo Narrow', sans-serif;
+    font-size: 15px;
+}
+#content {
+    float: left;
+    padding: 20px;
+    padding-bottom: 0;
+    width: 43em;
+    font-family: 'Arsenal', sans-serif;
+    font-size: 15px;
+}
+#ad
+{
+    float: right;
+    width: 10em;
+    height: auto;
+    min-height: 620px;
+    padding: 10px;
+    background-color: #99CCFF  ;
+}
+#footer
+{
+    clear: both;
+    background-color: #336699;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-family: 'Archivo Narrow', sans-serif;
+
+
+}
+
+.odnosnik{
+    text-decoration: none;
+    color: inherit;
+}
+
+.zdjecie{
+    width: 100%;
+    height: auto;
+    padding: 0;
+}
