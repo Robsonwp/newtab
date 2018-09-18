@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+
+.siteName {
+    color: white;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.siteNameSmall {
+    color: #ce050f;
+    text-align: center;
+    margin-top: 0;
+
+}
+
+
+#tabText {
+    color: white;
+}
