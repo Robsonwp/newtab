@@ -19,3 +19,25 @@ body {
 #tabText {
     color: white;
 }
+
+
+.tabs .tab a,
+.tabs .tab a:hover,
+.tabs .tab a.active {
+    color: white;
+}
+
+.tabs .tab a:focus,
+.tabs .tab a:focus.active {
+    background-color: transparent;
+}
+
+.tabs .indicator {
+    background-color: #ce050f;
+    height: 0.3em;
+}
+
+.tabs {
+    background-color: transparent;
+    border-bottom: solid #ce050f;
+}
