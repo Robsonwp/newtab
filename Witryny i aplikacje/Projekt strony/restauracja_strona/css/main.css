@@ -1,5 +1,6 @@
 body {
     background-color: black;
+    overflow: hidden;
 }
 
 .siteName {
@@ -40,4 +41,10 @@ body {
 .tabs {
     background-color: transparent;
     border-bottom: solid #ce050f;
+    user-select: none;
+}
+
+
+.podstrony {
+overflow-x: hidden;
 }

@@ -2,4 +2,6 @@
       $('.tabs').tabs({
           swipeable: true
       });
+    $('.slider').slider();
   });
+
