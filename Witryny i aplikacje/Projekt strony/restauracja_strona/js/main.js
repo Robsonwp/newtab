@@ -2,6 +2,8 @@
       $('.tabs').tabs({
           swipeable: true
       });
-    $('.slider').slider();
+      $('.slider').slider({
+          indicators: false,
+          height: 700
+      });
   });
-

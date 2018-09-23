@@ -1,6 +1,6 @@
 body {
     background-color: black;
-    overflow: hidden;
+    /*    overflow: hidden;*/
 }
 
 .siteName {
@@ -17,9 +17,6 @@ body {
 }
 
 
-#tabText {
-    color: white;
-}
 
 
 .tabs .tab a,
@@ -42,9 +39,38 @@ body {
     background-color: transparent;
     border-bottom: solid #ce050f;
     user-select: none;
+
 }
 
+.slider .slides {
+    margin-top: 2em;
+    width: 100%;
+    height: auto;
+}
 
-.podstrony {
-overflow-x: hidden;
+hr {
+    margin-top: 2em;
+    border: 1px solid #ce050f;
+}
+
+.godziny {
+    float: left;
+
+}
+
+table {
+    color: white;
+}
+
+h5.title {
+    color: #ce050f;
+    display: inline-block;
+    padding: 0 !important;
+
+}
+
+.fa {
+    color: white;
+    font-size: 2rem !important;
+    padding-right: 0.5em;
 }
