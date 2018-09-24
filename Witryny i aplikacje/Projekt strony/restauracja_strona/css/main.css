@@ -42,15 +42,17 @@ body {
 
 }
 
-.slider .slides {
+.slider.pierwszy .slides {
     margin-top: 2em;
-    width: 100%;
     height: auto;
+    overflow-x: hidden;
 }
+
 
 hr {
     margin-top: 2em;
     border: 1px solid #ce050f;
+    
 }
 
 .godziny {
@@ -74,3 +76,5 @@ h5.title {
     font-size: 2rem !important;
     padding-right: 0.5em;
 }
+
+

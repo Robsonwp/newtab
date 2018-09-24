@@ -4,6 +4,7 @@
       });
       $('.slider').slider({
           indicators: false,
-          height: 700
+          height: 300
       });
+      $('.carousel').carousel();
   });
