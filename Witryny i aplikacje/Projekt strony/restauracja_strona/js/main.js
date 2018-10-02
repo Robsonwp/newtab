@@ -6,4 +6,5 @@
           indicators: false,
           height: 300
       });
+      $('.karuzela').carousel();
   });

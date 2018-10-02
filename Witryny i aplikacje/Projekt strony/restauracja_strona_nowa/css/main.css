@@ -1,0 +1,70 @@
+body {
+    background-color: black;
+    padding-left: 3em;
+    padding-right: 3em;
+}
+
+.siteName {
+    color: white;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.siteNameSmall {
+    color: #ce050f;
+    text-align: center;
+    margin-top: 0;
+
+}
+
+
+hr {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    border: 1px solid #ce050f;
+
+}
+
+.godziny {
+    float: left;
+
+}
+
+table {
+    color: white;
+}
+
+h5.title {
+    color: #ce050f;
+    display: inline-block;
+    padding: 0 !important;
+
+}
+
+.fa {
+    color: white;
+    font-size: 2rem !important;
+    padding-right: 0.5em;
+}
+
+.sidenav-trigger {
+    position: fixed;
+    top: 2em;
+    left: 3em;
+    z-index: 12;
+    color: white;
+    padding: 0;
+    margin: 0;
+}
+
+.sidenav-trigger > i {
+    padding: 0;
+    margin: 0;
+}
+
+.carousel .carousel-item {
+
+    width: auto;
+    height: 600px !import;
+    min-height: none;
+}
