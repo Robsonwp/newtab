@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Zadanie</title>
+    <style>
+        * {
+            font-size: 10vh;
+            font-family: arial, sans-serif;
+        }
+
+        span.rzeczownik {
+            display: inline-block;
+            box-sizing: border-box;
+            padding: 20px;
+            border: 3px solid red;
+            border-radius: 150px;
+            background-color: #00fc6a;
+            color: red;
+            transition: 0.6s;
+        }
+
+        span.czasownik {
+            display: inline-block;
+            box-sizing: border-box;
+            padding: 20px;
+            border: 3px solid #f8e82c;
+            border-radius: 150px;
+            background-color: #092ef5;
+            color: #f8e82c;
+            transition: 0.6s;
+        }
+
+        span.przymiotnik {
+            display: inline-block;
+            box-sizing: border-box;
+            padding: 20px;
+            border: 3px solid black;
+            border-radius: 150px;
+            background-color: white;
+            color: black;
+            transition: 0.6s;
+        }
+
+        span.rzeczownik:hover {
+            border: 3px solid #00fc6a;
+            background-color: red;
+            color: #00fc6a;
+            cursor: pointer;
+        }
+
+        span.czasownik:hover {
+            border: 3px solid #092ef5;
+            background-color: #f8e82c;
+            color: #092ef5;
+            cursor: pointer;
+        }
+
+        span.przymiotnik:hover {
+            border: 3px solid white;
+            background-color: black;
+            color: white;
+            cursor: pointer;
+        }
+
+    </style>
+</head>
+
+<body>
+    <p><span class="rzeczownik">Ala </span><span class="czasownik">ma </span><span class="przymiotnik">krótkie </span><span class="rzeczownik">włosy.</span></p>
+    <p><span class="rzeczownik">Placki </span><span class="czasownik">są </span><span class="przymiotnik">smaczne.</span></p>
+    <p><span class="rzeczownik">Ptaki </span><span class="czasownik">latają </span><span class="przymiotnik">kluczem.</span></p>
+</body>
+
+</html>
