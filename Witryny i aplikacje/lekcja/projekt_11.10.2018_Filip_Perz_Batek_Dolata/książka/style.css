@@ -1,0 +1,83 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(209, 166, 94);
+}
+
+ol li {
+display: inline;
+list-style: none;
+    font-size: 1.7em;
+    padding: 1em;
+    font-weight: bold;
+    
+}
+
+a, a:active, a:visited{
+    text-decoration: none;
+    color: black;
+    font: bold 1em ;
+}
+
+ol{
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+div#pojemnik{
+    margin-left: 10em;
+    margin-right: 10em;
+    border:solid 2px black;
+    border-top: none !important;
+}
+div#naglowek{
+    text-align: center;
+    border-bottom: solid 2px black;
+    height: auto;
+    background-image: linear-gradient(to bottom right, white,darkgoldenrod);
+    
+    
+}
+div#tresc{
+    background-color: bisque;
+}
+img{
+    height: auto;
+    width: 100%;
+}
+
+h1, h2{
+    font-family: Brush Script MT, cursive;
+    padding: 0.5em 0 0.5em 0;
+    font-weight: 100;
+}
+
+h1{
+    padding-bottom: 0;
+    font-size: 4em;
+}
+h2{
+    font-size: 4em;
+}
+div#tresc{
+    padding-left: 10em;
+    padding-bottom: 10em;
+    
+}
+h3{
+    font-size: 2em;
+    padding: 1em 0 0.5em 0;
+}
+p{
+    padding: 0.5em 0 0.5em 0;
+    line-height: 3em;
+    
+}
+div#stopka{
+    text-align: center;
+    padding: 1em 0 1em 0;
+    background-color: white;
+    border-top: 1px solid;
+}

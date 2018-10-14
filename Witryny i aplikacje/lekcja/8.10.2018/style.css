@@ -1,0 +1,13 @@
+
+
+ol{
+    list-style: url(punktor.png) inside;
+}
+
+ul#wew{
+   list-style-position: inside; 
+}
+
+ul#zew{
+    list-style: hiragana outside;
+}
