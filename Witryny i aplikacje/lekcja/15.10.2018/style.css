@@ -1,0 +1,41 @@
+ul, ul li{
+    margin: 0;
+    padding: 1px;
+    list-style: none;
+}
+
+#glowna ul, #glowna ul li ul{
+    position: absolute;
+    top: 0;
+    left: 150px;
+    padding: 1px;
+    display: none;
+}
+
+#glowna li{
+    padding-bottom: 2px;
+    position: relative;
+    margin: 2px;
+    
+}
+
+#glowna li:hover ul, #glowna li ul li:hover{
+    display: block;
+    width: 140px;
+    height: auto;
+}
+
+
+#glowna li, #glowna a, #glowna li:hover li a,  #glowna li:hover ul > li{
+    display: block;
+    font: 12px /30px Verdana, sans-serif;    
+    text-decoration: none;
+    padding: 0 3px;
+    width: 140px;
+    color: black;
+    background-color: #C0C0CF;
+}
+
+#meble_ikea{
+    display: none;
+}
